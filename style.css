@@ -48,6 +48,9 @@ img{
     width: 50%;
     object-fit: contain;
 }
+figcaption{
+    width: 50%;
+}
 a{
     color: maroon;
 }
@@ -60,9 +63,9 @@ a{
         width: 80%;
     }
     .second-part-content{
-        width: 80%;
+        width: 78%;
     }
-    img{
+    img, figcaption{
         width: 80%;
     }
 }
@@ -81,9 +84,9 @@ a{
         font-size: 1em;
     }
     .second-part-content{
-        width: 70%;
+        width: 65%;
     }
-    img{
+    img, figcaption{
         width: 70%;
     }
 }
@@ -93,9 +96,9 @@ a{
         width: 60%;
     }
     .second-part-content{
-        width: 60%;
+        width: 58%;
     }
-    img{
+    img, figcaption{
         width: 60%;
     }
 }
@@ -105,9 +108,9 @@ a{
         width: 50%;
     }
     .second-part-content{
-        width: 50%;
+        width: 48%;
     }
-    img{
+    img, figcaption{
         width: 50%;
     }
 }
